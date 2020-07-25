@@ -13,7 +13,5 @@ public class CacheTestApplication extends CachingConfigurerSupport {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CacheTestApplication.class, args);
-	}
-	
-	 
+	} 
 }
